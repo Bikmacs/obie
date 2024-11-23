@@ -1,0 +1,3 @@
+C:/SystemProgramm/recursi/cmake-build-debug/CMakeFiles/recursi.dir
+C:/SystemProgramm/recursi/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/SystemProgramm/recursi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
